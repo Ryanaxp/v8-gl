@@ -16,6 +16,7 @@
 #endif
 
 #include <fstream>
+#include <cstring>
 #include <string>
 using namespace v8;
 
